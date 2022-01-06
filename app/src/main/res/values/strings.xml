@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CafeCozy</string>
+    <string name="all">TODO</string>
+    <string name="name">Kopi Hitam</string>
+    <string name="score">10000</string>
+    <string name="description">Kopi hitam yang telah diracik oleh Barista terlatih yang menjadi minuman wajib bagi para pencari kenikmatan.</string>
+    <string name="form_title">CafeCozy</string>
+    <string name="name_url">Image URL</string>
+    <string name="name_description">Deskripsi</string>
+    <string name="name_score">Harga</string>
+    <string name="name_name">Nama Menu</string>
+    <string name="title_add">Tambah Menu</string>
+    <string name="title_edit">Detail Menu</string>
+    <string name="save">Simpan</string>
+    <string name="menu_cafe">Menu Cafe</string>
+    <string name="detail_menu">Detail Menu</string>
+    <string name="add_menu">Tambah Menu</string>
+    <string name="register_label">Daftar</string>
+    <string name="signin_label">Masuk</string>
+</resources>
